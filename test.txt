@@ -1,2 +1,11 @@
 hello
+<<<<<<< HEAD
 wo cai bu dao
+=======
+Fuck
+lala
+zhe me ka 
+asdasd
+gggggg
+qwerer
+>>>>>>> origin/master
